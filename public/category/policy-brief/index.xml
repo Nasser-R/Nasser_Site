@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Policy Brief | Academic</title>
+    <link>https://example.com/category/policy-brief/</link>
+      <atom:link href="https://example.com/category/policy-brief/index.xml" rel="self" type="application/rss+xml" />
+    <description>Policy Brief</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 26 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Policy Brief</title>
+      <link>https://example.com/category/policy-brief/</link>
+    </image>
+    
+    <item>
+      <title>Mauritania: Intra-Africa Trade in Value Added</title>
+      <link>https://example.com/post/mauritania-intra-africa-trade-in-value-added/</link>
+      <pubDate>Thu, 26 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/mauritania-intra-africa-trade-in-value-added/</guid>
+      <description>&lt;h2 id=&#34;in-nutshel&#34;&gt;In nutshel&lt;/h2&gt;
+&lt;p&gt;The Mauritanian economy suffers a substantial lack of diversification, low productivity, and over-reliance on primary sectors. According to the world bank Mauritania: Country Economic Memorandum (2020), in 2017, mining and fishing products accounted for 98.1 percent of the country’s exports. The insufficiency of the economic diversification and the slow transformation of the economy have central implications when it comes to the vulnerability to external shocks such as exchange rate and commodity prices fluctuation. An example is the 2014 fall in the price of the commodity shock that led the 5.5 percent GDP growth in the period 2011-2014 to drop to 2.5 percent in the period 2015-2018. Moreover, the insufficient diversification of the economy results in the dependency on low value-added domestic activities, which in turn, is associated with limited job creation, low productivity, and sluggish growth.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>深刻化する環境問題に耐えるモーリタニア</title>
+      <link>https://example.com/post/mauritania-bearing-escalating-environmental-problems/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/mauritania-bearing-escalating-environmental-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Employment, global value chains and spillover effects in Turkey</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;in-a-nutshell&#34;&gt;In a nutshell&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Turkey’s manufacturing sectors post faster growth through backward linkages in global value chains, whereas services sectors do so through forward linkages; agricultural sectors have the lowest participation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are significant associations between participation in global value chains and employment creation at the sector level in Turkey.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are significant indirect effects of participation in global value chains on employment for the manufacturing sectors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Productivity, global value chains and cross-industry spillovers in Turkey</title>
+      <link>https://example.com/post/productivity-global-value-chains-and-cross-industry-spillovers-in-turkey/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/productivity-global-value-chains-and-cross-industry-spillovers-in-turkey/</guid>
+      <description>&lt;h2 id=&#34;in-nutshel&#34;&gt;In nutshel&lt;/h2&gt;
+&lt;p&gt;There are significant spillovers in productivity across industries in Turkey as a consequence of industries’ interconnectedness through input-output linkages.&lt;/p&gt;
+&lt;p&gt;Participation in global value chains (GVCs) plays a central role in explaining changes in productivity at the industry level: productivity rises with forward linkages – export of inputs used in the export of another country’s export to third countries – and declines with backward linkages – imported intermediates used in exports.&lt;/p&gt;
+&lt;p&gt;As a result of spillover effects, there are significant indirect effects of participation in GVCs on productivity; for example, productivity increases with forward linkages both within and across industries.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Solution Mapping | Academic</title>
+    <link>https://example.com/tag/solution-mapping/</link>
+      <atom:link href="https://example.com/tag/solution-mapping/index.xml" rel="self" type="application/rss+xml" />
+    <description>Solution Mapping</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Solution Mapping</title>
+      <link>https://example.com/tag/solution-mapping/</link>
+    </image>
+    
+    <item>
+      <title>Accelerator Lab Mauritania Project</title>
+      <link>https://example.com/project/internal-project/</link>
+      <pubDate>Fri, 27 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/internal-project/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Exploring weak signals, new tendencies and emergent trends - Collecting
+and analyzing different data relevant to the Acc Lab’s learning cycles&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifying key partners - Leading the discussion with national and
+international potential partners - Elaborating reports and knowledge
+products- Managing a portfolio of development topics (Disasters, Healthcare&lt;/li&gt;
+&lt;li&gt;Informality and Agriculture sector - Solid waste management)&lt;/li&gt;
+&lt;li&gt;Contributing in setting out different experimentation (composting +
+informality in the agriculture sector - Enhancing healthcare-related services,
+etc.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

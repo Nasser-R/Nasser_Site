@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>femmes | Academic</title>
+    <link>https://example.com/tag/femmes/</link>
+      <atom:link href="https://example.com/tag/femmes/index.xml" rel="self" type="application/rss+xml" />
+    <description>femmes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>femmes</title>
+      <link>https://example.com/tag/femmes/</link>
+    </image>
+    
+    <item>
+      <title>Femmes garagistes : vers une rupture avec les métiers réservés</title>
+      <link>https://example.com/post/femmes-garagistes-vers-une-rupture-avec-les-m-tiers-r-serv-s/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/femmes-garagistes-vers-une-rupture-avec-les-m-tiers-r-serv-s/</guid>
+      <description>&lt;h2 id=&#34;link-to-the-article&#34;&gt;Link to the article&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.mr.undp.org/content/mauritania/fr/home/presscenter/articles/femmes-garagistes-une-rupture-avec-les-metiers-reserves.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mr.undp.org/content/mauritania/fr/home/presscenter/articles/femmes-garagistes-une-rupture-avec-les-metiers-reserves.html&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

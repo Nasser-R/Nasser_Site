@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>employment | Academic</title>
+    <link>https://example.com/tag/employment/</link>
+      <atom:link href="https://example.com/tag/employment/index.xml" rel="self" type="application/rss+xml" />
+    <description>employment</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>employment</title>
+      <link>https://example.com/tag/employment/</link>
+    </image>
+    
+    <item>
+      <title>Employment, global value chains and spillover effects in Turkey</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;in-a-nutshell&#34;&gt;In a nutshell&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Turkey’s manufacturing sectors post faster growth through backward linkages in global value chains, whereas services sectors do so through forward linkages; agricultural sectors have the lowest participation.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are significant associations between participation in global value chains and employment creation at the sector level in Turkey.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;There are significant indirect effects of participation in global value chains on employment for the manufacturing sectors.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Impact of Backward Linkages and Domestic Contents of Exports on Labor Productivity and Employment: Evidence from Japanese Industrial Data</title>
+      <link>https://example.com/publication/impact-of-backward-linkages-and-domestic-contents-of-exports-on-labor-productivity-and-employment-evidence-from-japanese-industrial-data/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/impact-of-backward-linkages-and-domestic-contents-of-exports-on-labor-productivity-and-employment-evidence-from-japanese-industrial-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

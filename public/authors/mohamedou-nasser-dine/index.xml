@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mohamedou Nasser Dine | Academic</title>
+    <link>https://example.com/authors/mohamedou-nasser-dine/</link>
+      <atom:link href="https://example.com/authors/mohamedou-nasser-dine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mohamedou Nasser Dine</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Mohamedou Nasser Dine</title>
+      <link>https://example.com/authors/mohamedou-nasser-dine/</link>
+    </image>
+    
+    <item>
+      <title>Do Economic Determinants Affect the Homicide Rate in JAPAN? A Spatial Analysis</title>
+      <link>https://example.com/publication/do-economic-determinants-affect-the-homicide-rate-in-japan-a-spatial-analysis/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/do-economic-determinants-affect-the-homicide-rate-in-japan-a-spatial-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>深刻化する環境問題に耐えるモーリタニア</title>
+      <link>https://example.com/post/mauritania-bearing-escalating-environmental-problems/</link>
+      <pubDate>Tue, 15 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/mauritania-bearing-escalating-environmental-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impact of Backward Linkages and Domestic Contents of Exports on Labor Productivity and Employment: Evidence from Japanese Industrial Data</title>
+      <link>https://example.com/publication/impact-of-backward-linkages-and-domestic-contents-of-exports-on-labor-productivity-and-employment-evidence-from-japanese-industrial-data/</link>
+      <pubDate>Thu, 30 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/impact-of-backward-linkages-and-domestic-contents-of-exports-on-labor-productivity-and-employment-evidence-from-japanese-industrial-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Labor mobility within Japanese regional labor markets and spillover effects</title>
+      <link>https://example.com/publication/labor-mobility-within-japanese-regional-labor-markets-and-spillover-effects/</link>
+      <pubDate>Mon, 15 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/labor-mobility-within-japanese-regional-labor-markets-and-spillover-effects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Productivity, global value chains and cross-industry spillovers in Turkey</title>
+      <link>https://example.com/post/productivity-global-value-chains-and-cross-industry-spillovers-in-turkey/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/productivity-global-value-chains-and-cross-industry-spillovers-in-turkey/</guid>
+      <description>&lt;h2 id=&#34;in-nutshel&#34;&gt;In nutshel&lt;/h2&gt;
+&lt;p&gt;There are significant spillovers in productivity across industries in Turkey as a consequence of industries’ interconnectedness through input-output linkages.&lt;/p&gt;
+&lt;p&gt;Participation in global value chains (GVCs) plays a central role in explaining changes in productivity at the industry level: productivity rises with forward linkages – export of inputs used in the export of another country’s export to third countries – and declines with backward linkages – imported intermediates used in exports.&lt;/p&gt;
+&lt;p&gt;As a result of spillover effects, there are significant indirect effects of participation in GVCs on productivity; for example, productivity increases with forward linkages both within and across industries.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Essays on Spatial Econometrics and its Applications in Labor Economics</title>
+      <link>https://example.com/publication/essays-on-spatial-econometrics-and-its-applications-in-labor-economics/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/essays-on-spatial-econometrics-and-its-applications-in-labor-economics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Inter-Industry Spillovers in Labor Productivity and Global Value Chain Impacts: Evidence from Turkey</title>
+      <link>https://example.com/publication/inter-industry-spillovers-in-labor-productivity-and-global-value-chain-impacts-evidence-from-turkey/</link>
+      <pubDate>Tue, 15 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/inter-industry-spillovers-in-labor-productivity-and-global-value-chain-impacts-evidence-from-turkey/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Importance of Data Science for Development in Mauritania</title>
+      <link>https://example.com/talk/importance-of-data-science-for-development-in-mauritania/</link>
+      <pubDate>Sat, 01 Aug 2020 13:00:00 +0000</pubDate>
+      <guid>https://example.com/talk/importance-of-data-science-for-development-in-mauritania/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
